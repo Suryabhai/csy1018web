@@ -1,0 +1,67 @@
+body{
+	width: 100%; margin: 2%; font-size: 15px; font-family: tahoma;
+}
+header{
+	background: brown; width:100%; padding: 4px; display: flex; color: white; margin-bottom: 0.1%;
+}
+.logo{
+	 width: 30%;
+}
+.head{
+    width:30%; text-align: center; background:purple ; border-radius:0px 50px 0px 50px; font-family: AR DESTINE;
+}
+.form{
+ width: 30%; padding-left: 400px;
+}
+.navbar{
+	background: brown; height: 45px; margin-top: 0.1%;
+}
+.navbar ul li{
+	float: left;
+	
+	
+}
+.navbar ul li a{
+	text-decoration: none;
+	display: inline-block;
+	padding: 20px;
+	color: white;
+	margin: 1px;
+	
+	
+}
+section{
+	display: flex;
+	flex-direction: row;
+	margin: auto;
+	width: 100%;
+}
+.side{
+	width: 21%;
+}
+.sidebar{
+	
+	padding: 1%;
+	
+}
+.main{
+	width: 73%;
+	padding: 1%;
+	margin: 1%;
+	
+}
+.btn{
+	
+	background: orange;
+	color: pink;
+	height: 30px;
+}
+.footer{
+	
+	background-color: black;
+	height: 50px;
+	color: white;
+	text-align: center;
+	width: 100%;
+	
+}
